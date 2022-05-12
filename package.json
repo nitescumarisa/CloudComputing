@@ -1,28 +1,32 @@
 {
-  "name": "cloudcomputing",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nitescumarisa/CloudComputing.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nitescumarisa/CloudComputing/issues"
-  },
-  "homepage": "https://github.com/nitescumarisa/CloudComputing#readme",
-  "dependencies": {
-    "@google-cloud/translate": "^6.3.1",
-    "body-parser": "^1.20.0",
-    "cors": "^2.8.5",
-    "dotenv": "^16.0.0",
-    "express": "^4.18.1",
-    "google-books-search": "^0.3.1",
-    "mysql": "^2.18.1"
-  }
+    "name": "cloudcomputing",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nitescumarisa/CloudComputing.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nitescumarisa/CloudComputing/issues"
+    },
+    "homepage": "https://github.com/nitescumarisa/CloudComputing#readme",
+    "dependencies": {
+        "@google-cloud/translate": "^6.3.1",
+        "body-parser": "^1.20.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.0",
+        "express": "^4.18.1",
+        "google-books-search": "^0.3.1",
+        "mysql": "^2.18.1"
+    },
+    "engines": {
+        "node": "16.15.0"
+    }
 }

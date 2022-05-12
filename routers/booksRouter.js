@@ -36,7 +36,7 @@ router.post("/", (req, res) => {
         !previewLink
     ) {
         // send bad request error
-        return res.status(400).send("Bad request. Missing parameters.");
+        return res.status(400).send("Bad request. Missing parametersssss.");
     }
 
     const queryString = `INSERT INTO books (title, author, description, publishedDate, averageRating, imageLink, previewLink) VALUES (${mysql.escape(
