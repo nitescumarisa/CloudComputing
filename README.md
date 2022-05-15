@@ -4,7 +4,7 @@
 
 Nume: Nițescu Marisa
 Grupa: 1118
-Link video: 
+Link video: https://youtu.be/HUg8E9wmoY8
 Link publicare: https://pure-stream-96060.herokuapp.com/
 
 Introducere
