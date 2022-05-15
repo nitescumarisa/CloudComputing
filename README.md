@@ -32,10 +32,53 @@ Ca răspuns, în caz de succes primim un mesaj conform căruia cartea a fost ad�
 De asemenea, aplicația este Responsive, datele afișate putând fi vizualizate și de pe telefon.
 
 Capturi de ecran
+
 Main Page:
+
+
 ![Main Page](https://user-images.githubusercontent.com/104865221/168485523-f0b9ef42-0f8e-4f89-8ec8-dc16f6c79ee6.png)
 
+
+
+
+
+
+
+
+
 Afișare cărți după query-ul făcut:
+
+
+![Afisare carti dupa query](https://user-images.githubusercontent.com/104865221/168485796-5a82aa42-a56b-413c-a711-153629ed7f86.png)
+
+
+
+
+Adăugare cu succes:
+
+![poza 1](https://user-images.githubusercontent.com/104865221/168485750-52634b58-5eab-41b4-88ab-c1dd7f944ae4.png)
+
+
+
+
+Afișare cărți adăugate în Contul Meu:
+
+
+![Afisare carti](https://user-images.githubusercontent.com/104865221/168485839-0bdb8fe4-0256-48b1-96be-f1b6d0fbf5a0.png)
+
+
+
+
+
+
+Pentru deploy am folosit Heroku. 
+Astfel, serviciile de Cloud folosite pentru realizarea aplicației sunt Google Cloud API(Books API), conectarea la baza de date și deploy în Heroku. 
+
+Referințe:
+Books API: https://developers.google.com/books
+React Js: https://reactjs.org/docs/getting-started.html
+Express with Node Js: https://expressjs.com/en/guide/routing.html
+
 
 
 
