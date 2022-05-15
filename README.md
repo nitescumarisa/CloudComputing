@@ -33,6 +33,14 @@ De asemenea, aplicația este Responsive, datele afișate putând fi vizualizate 
 
 Capturi de ecran
 
+Testare in Postman:
+
+![Captură de ecran 2022-05-15 220103](https://user-images.githubusercontent.com/104865221/168489559-de21cf77-0d30-428f-bcbf-d2a130b3952c.png)
+
+
+
+
+
 Main Page:
 
 
